@@ -19,4 +19,4 @@ My progress, projects, and notes from [100Devs](https://leonnoel.com), a free ag
 - Land a software engineering role.
 
 ---
-**Connect with me:** [LinkedIn]([your-link](https://www.linkedin.com/in/andrew-boutres/)) | [Twitter]([your-link](https://x.com/AndrewBoutres))
+**Connect with me:** [LinkedIn]([https://www.linkedin.com/in/andrew-boutres/]) | [Twitter]([https://x.com/AndrewBoutres])
