@@ -9,9 +9,9 @@ My progress, projects, and notes from [100Devs](https://leonnoel.com), a free ag
 
 ## 📂 Repository Structure
 - `/projects`: Featured full-stack applications.
-- `/homework`: Daily tasks and practice modules.
+- `/homework`: Daily tasks and practice modules from 100devs classes.
 - `/codewars`: Solutions to daily JavaScript challenges.
-- `/classes`: Document all classes and materials
+
 
 ## 📈 Goals
 - Master the **MERN** stack.
